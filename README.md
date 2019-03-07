@@ -5,4 +5,4 @@
 
 To run it:
 
- `gem install jekyll-theme-hydejack`
+ `python3 Game2048.py`
